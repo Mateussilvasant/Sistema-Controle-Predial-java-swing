@@ -1,0 +1,3 @@
+#Configuração do Mysql - Usuário Senha
+ root pass123 
+#Fim Configuração

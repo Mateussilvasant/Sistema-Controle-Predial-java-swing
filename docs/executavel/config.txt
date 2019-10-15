@@ -1,0 +1,3 @@
+#Configuração do Mysql - Usuário Senha
+ usuario senha
+#Fim Configuração
