@@ -69,6 +69,10 @@ Na pasta /docs/credenciais estão os arquivos em formato xlsx que são alguns da
 * [Mysql Connector Java 8.0](https://mvnrepository.com/artifact/mysql/mysql-connector-java/8.0.15) - Ponte entre Java e Mysql.
 
 
+## Status do Projeto
+
+- Concluído, porém necessita de refatoração.
+
 ## Autores
 
 * **Mateus Silva** - *Responsável pela criação do view, criptografia e outros...* - [Mateussilvasant](https://github.com/Mateussilvasant)
